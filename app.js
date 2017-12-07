@@ -69,7 +69,7 @@ app.set("view engine", "handlebars");
 // ----------------------------------------
 // Server
 // ----------------------------------------
-var port = process.env.PORT || process.argv[2] || 3001;
+var port = process.env.PORT || process.argv[2] || 3002;
 var host = "localhost";
 
 var args;

@@ -29,4 +29,4 @@ Highlights:
 - deployed to Heroku
 - with neat use of repl to query PostgreSQL database from command-line (at either localhost or on heroku)!
 
-#### by Dennis C :donut:
+#### by Dennis C :doughnut:

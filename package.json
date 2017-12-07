@@ -10,7 +10,7 @@
     "c": "node repl.js",
     "seed":
       "npm run sql db:migrate:undo:all && npm run sql db:migrate && npm run sql db:seed:all",
-    "sql": "node_modules/sequelize-cli/bin/sequelize"
+    "sql": "node_modules/sequelize-cli/lib/sequelize"
   },
   "keywords": [],
   "author": "",
